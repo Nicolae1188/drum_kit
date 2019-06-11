@@ -3,7 +3,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url('../../images/concert_crowd.jpg');
+    background-image: url('../images/concert_crowd.jpg');
     background-size: 100%;
 }
 /* Key container */
